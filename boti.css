@@ -1,0 +1,144 @@
+#ho{
+    color: rgb(233, 109, 146);
+}
+header{
+    margin-top: -120px;
+}
+body{
+    background-color: beige;
+    
+}
+#phot{
+    height: 250px;
+    width: 1200px;
+    margin-left: 300px;
+    margin-top: -100px;
+    background-image: url(./botique/hanger\ pics.jpg);
+}
+h1{
+    color: rgb(207, 37, 88);
+    background-color: rgb(250, 193, 202);
+    width: 560px;
+    text-align: center;
+margin-left: 300px;
+margin-top: 120px;
+}
+h1:hover{
+    color: white;
+    background-color: pink;
+}
+#hov:hover{
+color: beige;
+background-color: rgb(243, 164, 194);
+}
+img{
+width: 55px;
+height: 40px;
+margin-top: -110px;
+margin-left: -40px;
+}
+nav{
+    height:150px;
+}
+div{
+    height: 60px;
+    width: 250px;
+    background-color: pink;
+
+}
+#pi1{
+    height: 200px;
+    width: 200px;
+margin-left: 40px;
+margin-top: 2px;
+}
+
+#mid{
+    background-color: rgb(250, 193, 202);
+    height: 250px;
+    width: 300px;
+
+}
+
+#mid1{
+    background-color: rgb(250, 193, 202);
+    height: 250px;
+    width: 300px;
+    margin-left: 300px;
+    background-color:beige;
+    border-color: magenta;
+    border-style: solid;
+    text-align: center;
+}
+#mid2{
+    background-color: rgb(250, 193, 202);
+    height: 300px;
+    width: 300px;
+    margin-left: 600px;
+
+}
+#pi2{
+    height: 200px;
+    width: 250px;
+margin-left: 30px;
+margin-top: 10px;
+}
+
+#mid3{
+    background-color:beige;
+    height: 380px;
+    width: 350px;
+    margin-left: 900px;
+    border-color: magenta;
+    border-style: solid;
+    
+}
+h2{
+    color:magenta;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: beige;
+    color: rgb(223, 90, 163);
+}
+#pink{
+    color:magenta;
+    text-align: center;
+}
+#mid4{
+    background-color: rgb(250, 193, 202);
+    height: 250px;
+    width: 300px;
+    margin-left: 600px;
+    
+}
+#pi3{
+    height: 180px;
+    width: 200px;
+    margin-top: -15px;
+    margin-left: 40px;
+}
+#mid5{
+    background-color: rgb(250, 193, 202);
+    height: 250px;
+    width: 300px;
+    margin-left: 300px;
+
+}
+#mid6{
+    background-color: rgb(250, 193, 202);
+    height: 250px;
+    width: 300px;
+}
+
+#movpage{
+    width: 1400px;
+height: 200px;
+background-color: beige;
+}
+#carouselExampleIndicators{
+    width: 1400px;
+    height: 400px;
+    background-image: url(./botique/photo-1612423284934-2850a4ea6b0f.jpg);
+}
